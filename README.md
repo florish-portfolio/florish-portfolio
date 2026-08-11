@@ -1,3 +1,52 @@
+# Hi there 👋
+
+I am Florish, an Agricultural Economics graduate and A Data Analyst  with an interest in Operation and Supply Chain analytics.
+I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
+
+### Tools i have worked with
+- SQL (PostgreSQL)
+- Microsoft Excel
+- Power BI
+- Google Sheet
+- Microsoft Word
+- Powerpoint
+
+### My Project
+
+### What I'm Working On
+- Building data analytics projects using real-world datasets
+- Strengthening my SQL and data analysis skills
+- Exploring business, operations, and supply chain analytics
+
+### 📁 Featured Projects
+
+I use this profile to document my learning journey and showcase projects where I apply data analysis to answer business questions and generate actionable insights.
+
+Thanks for visiting my profile! 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
