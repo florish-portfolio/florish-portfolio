@@ -4,7 +4,7 @@
 ### Welcome To My Data Analytics Portfolio!
 I am Florish, an Agricultural Economics graduate and A Data Analyst  with an interest in Operation and Supply Chain analytics. I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
 
-**Here i showcase my data analytics projects, technical skills and certifications as i continue building my career in data analytics**  I am open to internship opportunity where I can apply my analytical, research and problem solving skills while contributing meaningfully to organizational objectives.  
+**Here i showcase my data analytics projects, technical skills and certifications as i continue building my career in data analytics**.  I am open to internship opportunity where I can apply my analytical, research and problem solving skills while contributing meaningfully to organizational objectives.  
 
 ## TOOLS I HAVE WORKED WITH
 - SQL (PostgreSQL)
@@ -26,7 +26,8 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
 - Tableau
 
   ## CERTIFICATIONS
-   Datacamp Certified- Data Analyst. (https://drive.google.com/file/d/1cIZBK0B0cCFszEOTmNVBLqqW5FxD5JQd/view?usp=drive_link)
+   Datacamp Certified- Data Analyst.
+  Click [Here](https://drive.google.com/file/d/1cIZBK0B0cCFszEOTmNVBLqqW5FxD5JQd/view?usp=drive_link)
 
   ## CONTACTS
   ** let's connect**
@@ -35,11 +36,7 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
  - Location-(Lagos,Nigeria)
  - Download my cv - (file:///C:/Users/user/Videos/Download/oluwapelumi%20gen%202(1).pdf)
 
-### 📁 Featured Projects
-
-I use this profile to document my learning journey and showcase projects where I apply data analysis to answer business questions and generate actionable insights.
-
-Thanks for visiting my profile! 😊
+##Thanks for visiting my profile! 
 
 
 
