@@ -62,5 +62,4 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
 
 
 
-- ⚡ Fun fact: ...
--->
+
