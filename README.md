@@ -1,9 +1,11 @@
-# FLORISH ADEBOLA 👋
+# FLORISH ADEBOLA - DATA ANALYST PORTFOLIO
 
-I am Florish, an Agricultural Economics graduate and A Data Analyst  with an interest in Operation and Supply Chain analytics.
-I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
+## ABOUT
+### Welcome To My Data Analytics Portfolio!
+I am Florish, an Agricultural Economics graduate and A Data Analyst  with an interest in Operation and Supply Chain analytics. I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
+**Here** i showcase my data analytics projects, technical skills and certifications as i continue building my career in data analytics
 
-### Tools i have worked with
+## Tools I HAVE WORKED WITH
 - SQL (PostgreSQL)
 - Microsoft Excel
 - Power BI
@@ -11,16 +13,22 @@ I enjoy working with data to uncover patterns, understand business performance, 
 - Microsoft Word
 - Powerpoint
 
-### My Project
--[Supermart Analysis Project] (https://github.com/florish-portfolio/Supermart-analytics-project)
+### MY PROJECTS
+Below are my key Data Analytics project. Each project inculdes a brief summary of tools skill used, project goal, results achieved
+1. [Supermart Analysis Project] (https://github.com/florish-portfolio/Supermart-analytics-project)
 
-### Current Project and Learnings
+## CURRENT PROJECT AND LEARNING
 - Building data analytics projects using real-world datasets
 - Strengthening my SQL and data analysis skills
 - Exploring business, operations, and supply chain analytics
 - Advanced Python and SQL
 - Tableau
-  
+
+  ## CERTIFICATIONS
+
+  ## CONTACTS
+  likdin
+  email
 
 ### 📁 Featured Projects
 
