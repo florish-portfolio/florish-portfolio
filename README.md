@@ -16,7 +16,7 @@ I am Florish, an Agricultural Economics graduate and A Data Analyst  with an int
 
 ### MY PROJECTS
 Below are my key Data Analytics project. Each project inculdes a brief summary of tools skill used, project goal, results achieved
-1. [Supermart Analysis Project] (https://github.com/florish-portfolio/Supermart-analytics-project)
+1. [Supermart Analysis Project] Click [Here](https://github.com/florish-portfolio/Supermart-analytics-project)
 
 ## CURRENT PROJECT AND LEARNING
 - Building data analytics projects using real-world datasets
@@ -34,7 +34,7 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
  - Linkedin-(linkedin.com/in/florish-adebola)
  - Email -(florishpelumiadebola@gmail.com)
  - Location-(Lagos,Nigeria)
- - Download my cv - (file:///C:/Users/user/Videos/Download/oluwapelumi%20gen%202(1).pdf)
+ - Download my cv - Click [Here](file:///C:/Users/user/Videos/Download/oluwapelumi%20gen%202(1).pdf)
 
 ## Thanks for visiting my profile! 
 
