@@ -25,9 +25,23 @@ I am Florish, a Junior Data Analyst with a background in Agricultural Economics 
 - Problem Solving
 - Research & Analytical Thinking
 
-### MY PROJECTS
+## MY PORTFOLIO PROJECTS
 Below are my key Data Analytics project. Each project inculdes a brief summary of tools skill used, project goal, Key findings
-1. [Supermart Analysis Project] Click [Here](https://github.com/florish-portfolio/Supermart-analytics-project)
+ ### SuperMart Analytics Project
+
+**Tools & Skills:** SQL (PostgreSQL), data extraction, aggregation, JOINs, CTEs, window functions, and business analysis.
+
+**Project Goal:** Analyse SuperMart's sales database to evaluate order and revenue performance, customer purchasing behaviour, product performance, and employee sales performance.
+
+**Key Insights:**
+- Most orders were successfully fulfilled, indicating strong order fulfilment.
+- 82.5% of registered customers placed at least one order, showing strong customer engagement.
+- Indomie Noodles (Carton 40-pack) was the best-selling product.
+- A group of high-value customers contributed significantly to lifetime revenue.
+- Delivered-order revenue grew strongly from 2021 to 2023 but declined significantly in 2024.
+- Employee performance varied across sales volume, revenue, and order value.
+
+**[View Project →]** [Here](https://github.com/florish-portfolio/Supermart-analytics-project)
 
 ## CURRENT LEARNING
 - Advanced SQL
