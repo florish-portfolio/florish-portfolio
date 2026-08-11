@@ -1,4 +1,4 @@
-# Hi there 👋
+# FLORISH ADEBOLA 👋
 
 I am Florish, an Agricultural Economics graduate and A Data Analyst  with an interest in Operation and Supply Chain analytics.
 I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
