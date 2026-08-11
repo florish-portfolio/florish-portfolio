@@ -56,7 +56,7 @@ Below are my key data analytics projects. Each project inculdes a brief summary 
  - Linkedin-(linkedin.com/in/florish-adebola)
  - Email -(florishpelumiadebola@gmail.com)
  - Location-(Lagos,Nigeria)
- - Download my cv - Click[Here](file:///C:/Users/user/Videos/Download/oluwapelumi%20gen%202(1).pdf)
+ - Download my cv - Click[Here](https://github.com/florish-portfolio/florish-portfolio/blob/main/oluwapelumi%20gen%202(1).pdf))
 
 ## Thanks for visiting my profile! 
 
