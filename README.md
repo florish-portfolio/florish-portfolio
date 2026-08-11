@@ -2,17 +2,15 @@
 
 ## ABOUT
 ### Welcome To My Data Analytics Portfolio!
-I am Florish, a Junior Data Analyst with a background in Agricultural Economics and an interest in Operations and Supply Chain Analytics. I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
+I am Florish, a Junior Data Analyst with a background in Agricultural Economics and an interest in Operations and Supply Chain Analytics. I enjoy working with data to uncover patterns, understand business performance, and turn information into meaningful insights. I'm currently developing my skills in **Python, SQL, Excel, and Power BI** and now building practical projects to strengthen my analytical and problem-solving abilities.
 
-**Here i showcase my data analytics projects, technical skills and certifications as i continue building my career in data analytics**.  I am open to internship opportunities where I can apply my analytical, research and problem solving skills while contributing meaningfully to organizational objectives.  
+**Here, i showcase my data analytics projects, technical skills and certifications as i continue building my career in data analytics**.  I am open to internship opportunities where I can apply my analytical, research and problem solving skills while contributing meaningfully to organizational objectives.  
 
 ## TOOLS I HAVE WORKED WITH
 - SQL (PostgreSQL)
 - Microsoft Excel
 - Power BI
 - Google Sheets
-- Microsoft Word
-- Powerpoint
   
   ## CORE SKILLS
 
@@ -26,7 +24,7 @@ I am Florish, a Junior Data Analyst with a background in Agricultural Economics 
 - Research & Analytical Thinking
 
 ## MY PORTFOLIO PROJECTS
-Below are my key Data Analytics project. Each project inculdes a brief summary of tools skill used, project goal, Key findings
+Below are my key Data Analytics projectS. Each project inculdes a brief summary of tools and skill used, project goal, Key insight
  ### SuperMart Analytics Project
 
 **Tools & Skills:** SQL (PostgreSQL), data extraction, aggregation, JOINs, CTEs, window functions, and business analysis.
