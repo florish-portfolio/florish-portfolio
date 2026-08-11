@@ -12,11 +12,15 @@ I enjoy working with data to uncover patterns, understand business performance, 
 - Powerpoint
 
 ### My Project
+-[Supermart Analysis Project] (https://github.com/florish-portfolio/Supermart-analytics-project)
 
-### What I'm Working On
+### Current Project and Learnings
 - Building data analytics projects using real-world datasets
 - Strengthening my SQL and data analysis skills
 - Exploring business, operations, and supply chain analytics
+- Advanced Python and SQL
+- Tableau
+  
 
 ### 📁 Featured Projects
 
