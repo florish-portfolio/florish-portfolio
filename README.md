@@ -30,13 +30,13 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
   Click [Here](https://drive.google.com/file/d/1cIZBK0B0cCFszEOTmNVBLqqW5FxD5JQd/view?usp=drive_link)
 
   ## CONTACTS
-  ** let's connect**
+  **let's connect**
  - Linkedin-(linkedin.com/in/florish-adebola)
  - Email -(florishpelumiadebola@gmail.com)
  - Location-(Lagos,Nigeria)
  - Download my cv - (file:///C:/Users/user/Videos/Download/oluwapelumi%20gen%202(1).pdf)
 
-##Thanks for visiting my profile! 
+## Thanks for visiting my profile! 
 
 
 
@@ -61,19 +61,6 @@ Below are my key Data Analytics project. Each project inculdes a brief summary o
 
 
 
-## Hi there 👋
 
-<!--
-**florish-portfolio/florish-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
